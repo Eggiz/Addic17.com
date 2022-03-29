@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Programme B-MCT
-categories: jekyll update
-author: jasper
+title:  Découvrez le Programme B-MCT
+categories: b-mct clermont-ferrand
+author: chloe
 cover: /images/covers/welcome.jpg # Header cover [optional]
 image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
