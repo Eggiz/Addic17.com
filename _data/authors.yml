@@ -1,8 +1,7 @@
 jasper: # Author key. Must be the same as the slug (next line)
   slug: chloe # Must be the same as the author key (previous line) [required]
-  name: Chloé C. # Doesn't need an explanation [required] [views: all]
+  name: "Chloé C." # Doesn't need an explanation [required] [views: all]
   bio: "Hi! I'm Chloé" # Short bio [optional] [views: post, author]
   location: Clermont-Ferrand, France # [optional] [views: post, author]
   twitter: chlochlo_c # Twitter username (without the '@') [views: post, author]
-#   github: Pym/Jasper # GitHub username or username/repository (without any '@'!) [optional] [views: post, author]
   gravatar: 16f3de1863f9e15c1c2ae3d9f3597a84 # MD5 hash of your Gravatar email [optional (but it's cool)]
