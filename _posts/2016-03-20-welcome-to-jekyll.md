@@ -7,7 +7,7 @@ cover: /images/covers/welcome.jpg # Header cover [optional]
 image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 
-# Le Programme B-MCT, un espoir pour les personnes atteintes d’un trouble de la personnalité Borderline
+## Le Programme B-MCT : un espoir pour les personnes atteintes d’un trouble de la personnalité Borderline
 
 Quand on vit avec un trouble psychique, le rétablissement correspond non pas à une guérison clinique ou à une disparition des symptômes mais à un aménagement du quotidien qui soit satisfaisant pour la personne. C’est la réhabilitation psychosociale, dans laquelle s’inscrit le B-MCT, Programme d’Entraînement des habiletés Métacognitives pour les personnes ayant un trouble de la personnalité borderline. L’objectif ? Amener les patients à prendre conscience de leurs ressources, renforcer ces dernières et accompagner les patients dans la construction de leur projet de vie (travail, famille, logement…).
 
