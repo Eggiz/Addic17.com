@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Découvrez le Programme B-MCT
-categories: b-mct clermont-ferrand
+categories: b-mct
 author: chloe
 cover: /images/covers/welcome.jpg # Header cover [optional]
 image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
