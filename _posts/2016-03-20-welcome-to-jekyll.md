@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Programme B-MCT"
+title:  Programme B-MCT
 categories: jekyll update
 author: jasper
 cover: /images/covers/welcome.jpg # Header cover [optional]
