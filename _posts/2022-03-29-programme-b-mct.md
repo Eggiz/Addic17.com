@@ -15,7 +15,7 @@ Du grec méta, signifiant « sur », et du latin « cognition », « pensée »,
 
 Les troubles de la personnalité sont marqués par des schémas omniprésents et persistants de pensées, de perception, qui entraînent une souffrance importante chez les personnes concernées. Le trouble de la personnalité Borderline se caractérise par une instabilité dans les relations, dans l’image de soi, l’humeur, le comportement. Les personnes vivant avec un trouble de la personnalité Borderline redoutent tout particulièrement l’abandon. Elles ne supportent souvent pas la solitude et mettent fréquemment en place des comportements autodestructeurs afin de l’éviter.
 
-Elles sont souvent victime d’autres troubles, tels que les troubles anxieux ou la dépression. Il leur est difficile d’entretenir des relations harmonieuses avec les autres, tant leurs attentes vis-à-vis d’autrui peuvent être irréalistes.
+Elles sont souvent victimes d’autres troubles, tels que les troubles anxieux ou la dépression. Il leur est difficile d’entretenir des relations harmonieuses avec les autres, tant leurs attentes vis-à-vis d’autrui peuvent être irréalistes.
 
 ## Centre Référent Conjoint de Réhabilitation de Clermont-Ferrand
 
