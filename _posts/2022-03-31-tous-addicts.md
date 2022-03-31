@@ -32,8 +32,8 @@ Quelles sont les addictions les plus répandues ? Le tabac et l’alcool sont en
 
 Il existe également des addictions sans substance, tels les jeux d’argent et de hasard, les jeux vidéo, les écrans, internet et les réseaux sociaux.
 
-Video 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3E7hkPZ-HTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Alors, comment s’en sortir ? Bien souvent, demander de l’aide est problématique, et pourtant, c’est une étape indispensable pour sortir de l’addiction. Le travail ensuite sera bien souvent au long cours, avec des rechutes. Le traitement doit être pluridisciplinaire et spécialisé : centres de postcures, centres résidentiels… le patient est entouré d’équipes d’infirmiers spécialisés, de psychologues… et peut être amené à rencontrer des associations de personnes anciennement dépendantes, qui sont souvent d’un grand soutien quand il s’agit d’aborder l’abstinence.
 
-Video 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sL8AsaEJDdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
