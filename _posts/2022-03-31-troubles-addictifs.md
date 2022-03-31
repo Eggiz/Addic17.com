@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Découvrez le Programme B-MCT
+title:  Les Troubles Addictifs
 categories: b-mct
 author: chloe
 cover: /images/covers/welcome.jpg # Header cover [optional]
