@@ -13,22 +13,24 @@ Sommes-nous tous addicts !?
 
 Pour le savoir, il faut d’abord définir ce qu’on entend par *addiction.* L’addiction, appelée aussi dépendance, est l’ensemble de phénomènes comportementaux, cognitifs et physiologiques, survenant à la suite d’une consommation répétée d’une substance psychoactive associés à :
 
-- un désir puissant de prendre la substance ;
-- une difficulté à contrôler sa consommation ;
-- une poursuite de la consommation malgré les conséquences nocives ;
-- un désinvestissement progressif des autres activités et obligations quotidiennes, au profit de cette substance ;
+
+
+- un désir puissant de prendre la substance ;
+- une difficulté à contrôler sa consommation ;
+- une poursuite de la consommation malgré les conséquences nocives ;
+- un désinvestissement progressif des autres activités et obligations quotidiennes, au profit de cette substance ;
 - une tolérance accrue et parfois un syndrome de sevrage physique.
 
 Ainsi, les troubles addictifs regroupent : **l’alcoolisme, les toxicomanies, le tabagisme et les addictions comportementales (ex : jeux d’argent, jeux vidéo, écrans, internet…).** En agissant sur le circuit de récompense du cerveau, les substances psychoactives en déséquilibrent fortement le fonctionnement. La vie affective, familiale, professionnelle et sociale s’en trouve atteinte. Mais rassurez-vous : malgré les dégâts auxquels on assiste bien souvent, il est possible de se rétablir d’un trouble addictif.
 
 ### L’Observatoire Français des drogues et des toxicomanies (OFDT) distingue 4 catégories d’utilisateurs :
 
-- les **expérimentateurs** : ont consommé une substance psychoactive « au moins une fois dans leur vie » ;
-- les **occasionnels** : usent d’une substance « au moins une fois dans l’année » ;
-- les **réguliers** : consomment tous les jours ;
+- les **expérimentateurs** : ont consommé une substance psychoactive « au moins une fois dans leur vie » ;
+- les **occasionnels** : usent d’une substance « au moins une fois dans l’année » ;
+- les **réguliers** : consomment tous les jours ;
 - les **consommateurs à problème** : ont des problèmes **d’abus de substance, d’usage nocif et de dépendance. Leur mode de consommation est préjudiciable pour la santé physique et/ou psychique.**
 
-Quelles sont les addictions les plus répandues ? Le tabac et l’alcool sont en première position ; le cannabis les suit ; puis, loin derrière, les opiacés (héroïne, morphine), la cocaïne, les amphétamines et dérivés de synthèse.
+Quelles sont les addictions les plus répandues ? Le tabac et l’alcool sont en première position ; le cannabis les suit ; puis, loin derrière, les opiacés (héroïne, morphine), la cocaïne, les amphétamines et dérivés de synthèse.
 
 Il existe également des addictions sans substance, tels les jeux d’argent et de hasard, les jeux vidéo, les écrans, internet et les réseaux sociaux.
 
