@@ -18,7 +18,7 @@ navigation:
 analytics: UA-1234567-8 # Google Analytics tracking ID
 disqus: addic17-com    # Disqus shortname
 facebook_l10n: fr_FR    # Your locale (en_US, fr_FR, etc.)
-twitter: addic17    # Website's Twitter username (without the '@')
+twitter: Addic_17    # Website's Twitter username (without the '@')
 
 # Build settings
 exclude: [CNAME, Gemfile, Gemfile.lock]
