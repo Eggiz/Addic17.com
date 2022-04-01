@@ -7,9 +7,9 @@ cover: /images/covers/welcome.jpg # Header cover [optional]
 image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 
-## Tous addicts !?
+Sommes-nous tous addicts !?
 
-### Comment vous situez-vous face à ce mal du siècle ? Êtes-vous, vous aussi, atteint de trouble addictif ?
+### Comment vous situez-vous face à ce mal du siècle ? Êtes-vous, vous aussi, atteint de troubles addictifs ?
 
 Pour le savoir, il faut d’abord définir ce qu’on entend par *addiction.* L’addiction, appelée aussi dépendance, est l’ensemble de phénomènes comportementaux, cognitifs et physiologiques, survenant à la suite d’une consommation répétée d’une substance psychoactive associés à :
 
