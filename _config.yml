@@ -1,9 +1,9 @@
 # Site settings
-title: Addic17.com
+title: Addic 17
 logo: /images/logo.png
-description: Jasper National Park, the largest national park in the Canadian Rockies.
+description: L'addiction expliquée simplement !
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: http://eggiz.github.io/Addic17.com/ # the base hostname & protocol for your site
+url: https://addic17.com/ # the base hostname & protocol for your site
 
 # Main header
 header:
@@ -16,9 +16,9 @@ navigation:
 
 # Services (all are optional)
 analytics: UA-1234567-8 # Google Analytics tracking ID
-disqus: jasper-theme    # Disqus shortname
+disqus: addic17    # Disqus shortname
 facebook_l10n: fr_FR    # Your locale (en_US, fr_FR, etc.)
-twitter: JasperTheme    # Website's Twitter username (without the '@')
+twitter: addic17    # Website's Twitter username (without the '@')
 
 # Build settings
 exclude: [CNAME, Gemfile, Gemfile.lock]
