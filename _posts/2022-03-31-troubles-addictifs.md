@@ -3,8 +3,8 @@ layout: post
 title:  Les Troubles Addictifs
 categories: b-mct
 author: chloe
-cover: /images/covers/welcome.jpg # Header cover [optional]
-image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
+cover: /images/covers/sad-kid.jpg # Header cover [optional]
+image: /images/covers/sad-kid.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 
 Sommes-nous tous addicts !?
