@@ -23,8 +23,8 @@ Ainsi, les troubles addictifs regroupent : **l’alcoolisme, les toxicomanies, 
 
 ### L’Observatoire Français des drogues et des toxicomanies (OFDT) distingue 4 catégories d’utilisateurs :
 
-- les **expérimentateurs** : ont consommé une substance psychoactive « au moins une fois dans leur vie » ;
-- les **occasionnels** : usent d’une substance « au moins une fois dans l’année » ;
+- les **expérimentateurs** : ont consommé une substance psychoactive « au moins une fois dans leur vie » ;
+- les **occasionnels** : usent d’une substance « au moins une fois dans l’année » ;
 - les **réguliers** : consomment tous les jours ;
 - les **consommateurs à problème** : ont des problèmes **d’abus de substance, d’usage nocif et de dépendance. Leur mode de consommation est préjudiciable pour la santé physique et/ou psychique.**
 
