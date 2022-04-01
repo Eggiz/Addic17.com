@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Les Troubles Addictifs
-categories: b-mct
+categories: addiction
 author: chloe
 cover: /images/covers/sad-kid.jpg # Header cover [optional]
 image: /images/covers/sad-kid.jpg # Used by Twitter Cards and Open Graph [optional]
